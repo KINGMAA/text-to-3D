@@ -90,8 +90,5 @@ python evaluate.py --model-checkpoint path/to/checkpoint
 - Utilizes datasets: MVImgNet, DL3DV-10K, and LAION.
 - The model employs **BERT embeddings** to encode textual descriptions into semantic representations for accurate scene generation.
 
----
 
-### **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 

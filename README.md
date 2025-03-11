@@ -41,7 +41,6 @@ Explore the project presentation for an in-depth overview: [View Presentation](h
 
 3. **Set up additional requirements:**
    - Ensure Python 3.8+ and a compatible CUDA environment.
-   - Download datasets: [MVImgNet](#), [DL3DV-10K](#), and [LAION](#).
 
 ---
 

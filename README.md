@@ -85,24 +85,6 @@ python evaluate.py --model-checkpoint path/to/checkpoint
 
 ---
 
-### **Contributing**
-We welcome contributions! Please check our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get involved.
-
----
-
-### **Citation**
-If you use this code or find our work helpful, please cite:
-```bibtex
-@article{anis2025textto3d,
-  title={Attentional Language Modeling for Text-to-3D Generation},
-  author={Marena Anis Labib and Ali Hamdi},
-  journal={ICICT 2025 Conference Proceedings},
-  year={2025}
-}
-```
-
----
-
 ### **Acknowledgments**
 - Inspired by work of [Director3D](https://arxiv.org/pdf/2406.17601v1).
 - Utilizes datasets: MVImgNet, DL3DV-10K, and LAION.
